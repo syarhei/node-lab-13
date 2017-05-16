@@ -1,6 +1,19 @@
 'use strict';
 
-let examples = [];
+let examples = [
+    {
+        id: 1,
+        name: "ssss"
+    },
+    {
+        id: 2,
+        name: "ssss"
+    },
+    {
+        id: 3,
+        name: "ssss"
+    }
+];
 
 exports.addCriminal = function(args, res, next) {
   try {
